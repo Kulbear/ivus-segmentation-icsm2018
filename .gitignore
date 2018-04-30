@@ -1,0 +1,16 @@
+.idea
+*.mat
+*.npy
+
+Ground Truth/
+data/
+configs/
+experiments*
+notebooks/
+Training Set/
+Test Set/
+
+*.ipynb
+
+__pycache__
+*.pyc
